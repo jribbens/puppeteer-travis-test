@@ -1,0 +1,26 @@
+{
+  "name": "puppeteer-travis-test",
+  "version": "1.0.0",
+  "description": "Test if travis-ci can run puppeteer successfully",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jribbens/puppeteer-travis-test.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "travis"
+  ],
+  "author": "Jon Ribbens <jribbens@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jribbens/puppeteer-travis-test/issues"
+  },
+  "homepage": "https://github.com/jribbens/puppeteer-travis-test#readme",
+  "dependencies": {
+    "puppeteer": "^8.0.0"
+  }
+}
