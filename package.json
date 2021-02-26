@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/jribbens/puppeteer-travis-test#readme",
   "dependencies": {
-    "puppeteer": "^8.0.0"
+    "puppeteer": "^7.1.0"
   }
 }
